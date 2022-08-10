@@ -1,5 +1,5 @@
 package com.lti.demos;
 
-public class ProductDemo {
+public class ChildClass {
 
 }
